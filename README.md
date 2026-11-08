@@ -2,7 +2,7 @@
 
 Portfólio pessoal de apresentação, com minha formação, tecnologias, projetos e pretensões profissionais. Desenvolvido com HTML5, CSS3 e JavaScript puro, com tema visual inspirado no "Mundo Invertido" de Stranger Things.
 
-🔗 **Acesse:** https://rafaelcardoso04.github.io/
+🔗 **Acesse:** https://github.com/rafaelcardoso04/portfolio-rafael-cardoso
 
 ## Sobre
 
@@ -35,7 +35,7 @@ Formado em Gestão da Tecnologia da Informação, com base em redes, Linux e des
 ## Como executar localmente
 
 1. Clone o repositório:
-   `git clone https://github.com/rafaelcardoso04/NOME-DO-REPOSITORIO.git`
+   `git clone https://github.com/rafaelcardoso04/portfolio-rafael-cardoso.git`
 2. Abra o arquivo `index.html` no navegador.
 
 Opcionalmente, sirva localmente com Python:
