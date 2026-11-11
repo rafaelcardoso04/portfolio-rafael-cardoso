@@ -15,7 +15,8 @@ Formado em Gestão da Tecnologia da Informação, com base em redes, Linux e des
 - JavaScript (Canvas API)
 - SVG
 - Git e GitHub Pages
-
+- Service Desk
+  
 ## Destaques
 
 - Título em neon com animação de lâmpada falhando
