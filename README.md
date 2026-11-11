@@ -2,7 +2,7 @@
 
 Portfólio pessoal de apresentação, com minha formação, tecnologias, projetos e pretensões profissionais. Desenvolvido com HTML5, CSS3 e JavaScript puro, com tema visual inspirado no "Mundo Invertido" de Stranger Things.
 
-🔗 **Acesse:** https://github.com/rafaelcardoso04/portfolio-rafael-cardoso
+🔗 **Acesse:** https://rafaelcardoso04.github.io/portfolio-rafael-cardoso/
 
 ## Sobre
 
